@@ -1,0 +1,9 @@
+01_fork
+01_fork.c
+02_malloc
+02_malloc.c
+03_fd_exec
+03_fd_exec.c
+04_pipe
+04_pipe.c
+out.dat
